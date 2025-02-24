@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Vienn!  
 
 💻 **IAM Analyst | Active Directory | PowerShell Automation**  
-🚀 CCNA Certified | Aspiring Network Engineer, committed to mastering troubleshooting, streamlining IT processes, and minimizing issues, network infrastructure and emerging technologies.
+🚀 **CCNA Certified | Aspiring Network Engineer**
 
-I specialize in **Service Desk & Identity & Access Management (IAM)**, **O365 Administration**, **Active Directory (AD) Administration**, and **PowerShell scripting** for IT security and infrastructure. My goal is to enhance security, automate IT processes, and transition into **Network Engineering**.  
+I specialize in **Service Desk & Identity & Access Management (IAM)**, **O365 Administration**, **Active Directory (AD) Administration**, and **PowerShell scripting** for IT infrastructure. My goal is to master troubleshooting, network infrastructure, emerging technologies, streamlining IT processes, minimizing issues and transition into **Network Engineering**.
 
 ---
 

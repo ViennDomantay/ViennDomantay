@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vienn Domantay!  
+# 👋 Hi, I'm Vienn!  
 
 💻 **IAM Analyst | Active Directory | PowerShell Automation**  
 🚀 CCNA Certified | Aspiring Network Engineer, committed to mastering troubleshooting, streamlining IT processes, and minimizing issues, network infrastructure and emerging technologies.
